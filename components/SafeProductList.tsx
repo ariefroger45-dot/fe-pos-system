@@ -1,5 +1,5 @@
 import React from "react";
-import { externalProductSchema, ExternalProduct } from "@/product";
+import { externalProductSchema, ExternalProduct } from "@/types/product";
 import z from "zod";
 import { Card, CardTitle, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
